@@ -1,7 +1,7 @@
 package io.datajek.springbasics.movierecommendersystem;
 
 
-import io.datajek.springbasics.movierecommendersystem.lesson3.RecommenderImplementation;
+import io.datajek.springbasics.movierecommendersystem.lesson6.RecommenderImplementation;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
